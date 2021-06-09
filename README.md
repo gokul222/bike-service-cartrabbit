@@ -8,7 +8,7 @@
       Password:12345678<br>
 <b>Vendor Login</b><br>
       username:test@gmail.com<br>
-      Password:12345678
+      Password:12345678<br>
 <b>Home Page</b> 
 ![image](https://user-images.githubusercontent.com/36505950/121336657-5cab9680-c939-11eb-94d9-946f537bfdd6.png)
 
