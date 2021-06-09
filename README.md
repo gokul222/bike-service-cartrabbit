@@ -1,5 +1,5 @@
-# bike-service-cartrabbit
-<b>Bike service application</b>
+# Bike service application
+<b>Config</b>
       
       Database:cartrabbit.sql(File Attached In Main Root Floder)
       Email Config for:application\controllers\Customer(Line 19,20),application\controllers\Vendor(Line 19,20)
