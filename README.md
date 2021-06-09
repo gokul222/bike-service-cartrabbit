@@ -5,7 +5,7 @@
       Email Config for:application\controllers\Customer(Line 19,20),application\controllers\Vendor(Line 19,20)
 <b>Customer Login</b><br>
       username:gokultest@gmail.com<br>
-      Password:12345678
+      Password:12345678<br>
 <b>Vendor Login</b><br>
       username:test@gmail.com<br>
       Password:12345678
